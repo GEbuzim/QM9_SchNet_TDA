@@ -1,0 +1,3 @@
+Model,Target,MAE (eV),Method,OOD Condition
+Simple Mean Baseline,HOMO-LUMO Gap,1.0868,Statistical Mean of Train,N=9 heavy atoms
+SchNet (Invariant GNN),HOMO-LUMO Gap,0.116,Continuous-filter Convolution,N=9 heavy atoms
